@@ -1,0 +1,11 @@
+# config
+.prettierrc
+
+# node modules
+/node_modules
+
+# vscode config
+/.vscode
+
+# personal plan for this project
+plan.md

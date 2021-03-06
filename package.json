@@ -1,0 +1,32 @@
+{
+  "name": "blog-project",
+  "version": "1.0.0",
+  "description": "Using HTML, CSS, and JavaScript to render a blog website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoldenaArcher/blog-project.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Blog"
+  ],
+  "author": "GoldenaArcher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoldenaArcher/blog-project/issues"
+  },
+  "homepage": "https://github.com/GoldenaArcher/blog-project#readme",
+  "dependencies": {
+    "slugify": "^1.4.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
